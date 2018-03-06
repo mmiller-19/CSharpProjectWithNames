@@ -1,0 +1,7 @@
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\bin\Debug\ProjectWithCSharp.exe.config
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\bin\Debug\ProjectWithCSharp.exe
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\bin\Debug\ProjectWithCSharp.pdb
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\obj\Debug\ProjectWithCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\obj\Debug\ProjectWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\obj\Debug\ProjectWithCSharp.exe
+C:\Users\Miller's\source\repos\WorkingWIthCSharp\ProjectWithCSharp\obj\Debug\ProjectWithCSharp.pdb
